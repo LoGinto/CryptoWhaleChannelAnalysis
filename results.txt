@@ -1,7 +1,4 @@
 
-Amount sent by an exchange: ['43,894,329']
-Coin: Ripple
- 
 Amount received by an exchange: ['1,000', '456']
 Coin: Bitcoin
  
@@ -52,5 +49,7 @@ Amount received by an exchange: ['721', '003']
 Coin: Ethereum
  
 Amount sent by an exchange: ['976', '6,499']
+Coin: Ethereum
+ 
 Coin: Ethereum
  

@@ -1,6 +1,6 @@
 import CryptoTransactionParser
 import  CryptoTransactionResults
-
+import ConvertCrypto
 
 if __name__ == "__main__":
     parser = CryptoTransactionParser.CryptoTransactionParser()
@@ -11,5 +11,9 @@ if __name__ == "__main__":
         data = file.read()
     searcher.parse_data(data)
     searcher.write_results('final_results.txt')
+    btcPrice = ConvertCrypto.ConvertCrypto().GetPrice("Bitcoin")
+    print(f"BTC {btcPrice}")
+
+
 
 
