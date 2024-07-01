@@ -1,6 +1,6 @@
-Sent from exchange Bitcoin: 48270270.0
-Received from exchange Bitcoin: 2080.0
-Sent from exchange Ethereum: 14050.0
-Received from exchange Ethereum: 3245.94533331
 Sent from exchange Ripple: 0
-Received from exchange Ripple: 185000.0
+Received from exchange Ripple: 930708.0
+Sent from exchange Ethereum: 187536634.0
+Received from exchange Ethereum: 4733.0
+Sent from exchange Tether: 30000.0
+Received from exchange Tether: 764.0

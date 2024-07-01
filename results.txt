@@ -1,55 +1,65 @@
 
-Amount received by an exchange: ['1,000', '456']
-Coin: Bitcoin
- 
-Amount received by an exchange: ['505']
+Amount received by an exchange: ['175']
 Coin: Ethereum
  
-Amount received by an exchange: ['000']
+Amount received by an exchange: ['699', '729']
 Coin: Ethereum
  
-Coin: Bitcoin
- 
-Amount received by an exchange: ['671']
+Amount received by an exchange: ['740', '762']
 Coin: Ethereum
  
-Amount sent by an exchange: ['6,575']
+Amount received by an exchange: ['544', '000,000']
+Coin: Ethereum
+ 
+Coin: Tether
+ 
+Amount received by an exchange: ['764']
+Coin: Ethereum
+ 
+Amount received by an exchange: ['337']
+Coin: Ethereum
+ 
+Amount sent by an exchange: ['6,634']
+Coin: Ethereum
+ 
+Amount sent by an exchange: ['85,000,000']
+Coin: Ethereum
+ 
+Coin: Tether
+ 
+Amount received by an exchange: ['000,000']
+Coin: Tron
+ 
+Coin: Tether
+ 
+Amount sent by an exchange: ['30,000']
+Coin: Ethereum
+ 
+Coin: Ethereum
+ 
+Amount sent by an exchange: ['15,000']
+Coin: Ethereum
+ 
+Amount sent by an exchange: ['15,000']
 Coin: Ethereum
  
 Coin: Ripple
  
-Amount received by an exchange: ['185,000']
+Amount received by an exchange: ['930,000']
 Coin: Ripple
  
+Amount received by an exchange: ['708']
 Coin: Ethereum
  
-Amount received by an exchange: ['048']
+Amount sent by an exchange: ['52,500,000']
 Coin: Ethereum
  
-Amount received by an exchange: ['740', '819']
+Amount received by an exchange: ['642']
 Coin: Ethereum
  
-Amount received by an exchange: ['022', '0.94533331']
-Coin: Bitcoin
- 
-Amount received by an exchange: ['904']
+Amount sent by an exchange: ['50,000,000']
 Coin: Ethereum
  
-Amount received by an exchange: ['892']
-Coin: Ethereum
- 
-Coin: Bitcoin
- 
-Amount sent by an exchange: ['48,270,270']
-Coin: Ripple
- 
-Coin: Ethereum
- 
-Amount received by an exchange: ['721', '003']
-Coin: Ethereum
- 
-Amount sent by an exchange: ['976', '6,499']
-Coin: Ethereum
- 
+Amount received by an exchange: ['280', '000']
 Coin: Ethereum
  

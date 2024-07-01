@@ -1,4 +1,5 @@
 class CryptoCoinSearcher:
+
     def search_and_print_coins(self, text):
         cryptos = ["Bitcoin", "Ethereum", "Binance Coin", "BNB", "Cardano", "Ripple", "Solana", "Polkadot", "Dogecoin",
                    "Avalanche", "Uniswap", "Chainlink", "Litecoin", "Bitcoin Cash", "Stellar", "USD Coin",
