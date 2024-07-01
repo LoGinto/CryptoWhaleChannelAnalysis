@@ -27,8 +27,8 @@
    <meta content="@Telegram" name="twitter:site"/>
    <meta content="The most advanced #blockchain tracker and analytics system reporting large and interesting transactions as they happen. All data available through our API.
 " name="twitter:description"/>
-   <link href="/s/whale_alert_io?before=80151" rel="prev"/>
-   <link href="/s/whale_alert_io?before=80171" rel="canonical"/>
+   <link href="/s/whale_alert_io?before=80155" rel="prev"/>
+   <link href="/s/whale_alert_io?before=80175" rel="canonical"/>
    <script>
     window.matchMedia&&window.matchMedia('(prefers-color-scheme: dark)').matches&&document.documentElement&&document.documentElement.classList&&document.documentElement.classList.add('theme_dark');
    </script>
@@ -141,7 +141,7 @@
         </a>
         tracker and analytics system reporting large and interesting transactions as they happen. All data available through our API.
        </div>
-       <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=2f00547bd2c77186ba_9471270498974896078">
+       <a class="tgme_channel_download_telegram" href="//telegram.org/dl?tme=81316d3b7c6c949e25_11548673042011036583">
         <svg class="tgme_channel_download_telegram_icon" height="18px" viewbox="0 0 21 18" width="21px">
          <g fill="none">
           <path d="M0.554,7.092 L19.117,0.078 C19.737,-0.156 20.429,0.156 20.663,0.776 C20.745,0.994 20.763,1.23 20.713,1.457 L17.513,16.059 C17.351,16.799 16.62,17.268 15.88,17.105 C15.696,17.065 15.523,16.987 15.37,16.877 L8.997,12.271 C8.614,11.994 8.527,11.458 8.805,11.074 C8.835,11.033 8.869,10.994 8.905,10.958 L15.458,4.661 C15.594,4.53 15.598,4.313 15.467,4.176 C15.354,4.059 15.174,4.037 15.036,4.125 L6.104,9.795 C5.575,10.131 4.922,10.207 4.329,10.002 L0.577,8.704 C0.13,8.55 -0.107,8.061 0.047,7.614 C0.131,7.374 0.316,7.182 0.554,7.092 Z" fill="#ffffff">
@@ -184,7 +184,7 @@
      </section>
     </div>
     <div class="tgme_header_info">
-     <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=2f00547bd2c77186ba_9471270498974896078">
+     <a class="tgme_channel_join_telegram" href="//telegram.org/dl?tme=81316d3b7c6c949e25_11548673042011036583">
       <svg class="tgme_channel_join_telegram_icon" height="16px" viewbox="0 0 19 16" width="19px">
        <g fill="none">
         <path d="M0.465,6.638 L17.511,0.073 C18.078,-0.145 18.714,0.137 18.932,0.704 C19.009,0.903 19.026,1.121 18.981,1.33 L16.042,15.001 C15.896,15.679 15.228,16.111 14.549,15.965 C14.375,15.928 14.211,15.854 14.068,15.748 L8.223,11.443 C7.874,11.185 7.799,10.694 8.057,10.345 C8.082,10.311 8.109,10.279 8.139,10.249 L14.191,4.322 C14.315,4.201 14.317,4.002 14.195,3.878 C14.091,3.771 13.926,3.753 13.8,3.834 L5.602,9.138 C5.112,9.456 4.502,9.528 3.952,9.333 L0.486,8.112 C0.077,7.967 -0.138,7.519 0.007,7.11 C0.083,6.893 0.25,6.721 0.465,6.638 Z" fill="#ffffff">
@@ -217,336 +217,11 @@
    <div class="tgme_container">
     <section class="tgme_channel_history js-message_history">
      <div class="tgme_widget_message_centered js-messages_more_wrap">
-      <a class="tme_messages_more js-messages_more" data-before="80151" href="/s/whale_alert_io?before=80151">
+      <a class="tme_messages_more js-messages_more" data-before="80155" href="/s/whale_alert_io?before=80155">
       </a>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80151" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTEsInQiOjE3MTk4MjA0OTUsImgiOiI4YzI5ZmY2ODMyODI5NGVkNWYifQ">
-       <div class="tgme_widget_message_user">
-        <a href="https://t.me/whale_alert_io">
-         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
-          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
-         </i>
-        </a>
-       </div>
-       <div class="tgme_widget_message_bubble">
-        <i class="tgme_widget_message_bubble_tail">
-         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
-          <g fill="none">
-           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
-           </path>
-           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
-           </path>
-           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
-           </path>
-           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
-           </path>
-          </g>
-         </svg>
-        </i>
-        <div class="tgme_widget_message_author accent_color">
-         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
-          <span dir="auto">
-           Whale Alert
-          </span>
-         </a>
-        </div>
-        <div class="tgme_widget_message_text js-message_text" dir="auto">
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         30,175
-         <a href="?q=%23ETH">
-          #ETH
-         </a>
-         (101,922,869 USD) transferred from unknown wallet to
-         <a href="?q=%23Coinbase">
-          #Coinbase
-         </a>
-         <br/>
-         <a href="https://whale-alert.io/transaction/ethereum/0xdc0510c7ef2f6e185ad7ea917c7a346752ee89d73e7f5c338d6ad0a916597602" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
-          Details
-         </a>
-        </div>
-        <div class="tgme_widget_message_footer compact js-message_footer">
-         <div class="tgme_widget_message_info short js-message_info">
-          <span class="tgme_widget_message_views">
-           21.7K
-          </span>
-          <span class="copyonly">
-           views
-          </span>
-          <span class="tgme_widget_message_meta">
-           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80151">
-            <time class="time" datetime="2024-06-28T21:25:39+00:00">
-             21:25
-            </time>
-           </a>
-          </span>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80152" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTIsInQiOjE3MTk4MjA0OTUsImgiOiI1YjNjNThhOWQyZWE5NDdkMDEifQ">
-       <div class="tgme_widget_message_user">
-        <a href="https://t.me/whale_alert_io">
-         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
-          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
-         </i>
-        </a>
-       </div>
-       <div class="tgme_widget_message_bubble">
-        <i class="tgme_widget_message_bubble_tail">
-         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
-          <g fill="none">
-           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
-           </path>
-           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
-           </path>
-           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
-           </path>
-           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
-           </path>
-          </g>
-         </svg>
-        </i>
-        <div class="tgme_widget_message_author accent_color">
-         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
-          <span dir="auto">
-           Whale Alert
-          </span>
-         </a>
-        </div>
-        <div class="tgme_widget_message_text js-message_text" dir="auto">
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         9,729
-         <a href="?q=%23ETH">
-          #ETH
-         </a>
-         (32,785,419 USD) transferred from unknown wallet to
-         <a href="?q=%23Coinbase">
-          #Coinbase
-         </a>
-         <br/>
-         <a href="https://whale-alert.io/transaction/ethereum/0x14a9c7cec636752d55d66950bfbf7ff5c51efcc85bfc779484f2bb75db9b9e5d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
-          Details
-         </a>
-        </div>
-        <div class="tgme_widget_message_footer compact js-message_footer">
-         <div class="tgme_widget_message_info short js-message_info">
-          <span class="tgme_widget_message_views">
-           21.5K
-          </span>
-          <span class="copyonly">
-           views
-          </span>
-          <span class="tgme_widget_message_meta">
-           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80152">
-            <time class="time" datetime="2024-06-28T23:11:44+00:00">
-             23:11
-            </time>
-           </a>
-          </span>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80153" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTMsInQiOjE3MTk4MjA0OTUsImgiOiI1Zjc5YzlhNzRhYWQ0YWJiODcifQ">
-       <div class="tgme_widget_message_user">
-        <a href="https://t.me/whale_alert_io">
-         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
-          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
-         </i>
-        </a>
-       </div>
-       <div class="tgme_widget_message_bubble">
-        <i class="tgme_widget_message_bubble_tail">
-         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
-          <g fill="none">
-           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
-           </path>
-           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
-           </path>
-           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
-           </path>
-           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
-           </path>
-          </g>
-         </svg>
-        </i>
-        <div class="tgme_widget_message_author accent_color">
-         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
-          <span dir="auto">
-           Whale Alert
-          </span>
-         </a>
-        </div>
-        <div class="tgme_widget_message_text js-message_text" dir="auto">
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         9,762
-         <a href="?q=%23ETH">
-          #ETH
-         </a>
-         (32,911,190 USD) transferred from unknown wallet to
-         <a href="?q=%23Coinbase">
-          #Coinbase
-         </a>
-         <br/>
-         <a href="https://whale-alert.io/transaction/ethereum/0x5b6feb212ee864c56937ec1954902b65f7f7a8879aab25e34d3507763e514613" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
-          Details
-         </a>
-        </div>
-        <div class="tgme_widget_message_footer compact js-message_footer">
-         <div class="tgme_widget_message_info short js-message_info">
-          <span class="tgme_widget_message_views">
-           22.1K
-          </span>
-          <span class="copyonly">
-           views
-          </span>
-          <span class="tgme_widget_message_meta">
-           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80153">
-            <time class="time" datetime="2024-06-28T23:17:49+00:00">
-             23:17
-            </time>
-           </a>
-          </span>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80154" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTQsInQiOjE3MTk4MjA0OTUsImgiOiI0ZTE5MWVmYmU3MmIzZDYxMzQifQ">
-       <div class="tgme_widget_message_user">
-        <a href="https://t.me/whale_alert_io">
-         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
-          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
-         </i>
-        </a>
-       </div>
-       <div class="tgme_widget_message_bubble">
-        <i class="tgme_widget_message_bubble_tail">
-         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
-          <g fill="none">
-           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
-           </path>
-           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
-           </path>
-           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
-           </path>
-           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
-           </path>
-          </g>
-         </svg>
-        </i>
-        <div class="tgme_widget_message_author accent_color">
-         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
-          <span dir="auto">
-           Whale Alert
-          </span>
-         </a>
-        </div>
-        <div class="tgme_widget_message_text js-message_text" dir="auto">
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
-          <b>
-           🚨
-          </b>
-         </i>
-         100,000,000
-         <a href="?q=%23USDT">
-          #USDT
-         </a>
-         (99,973,750 USD) transferred from Tether Treasury to
-         <a href="?q=%23Bitfinex">
-          #Bitfinex
-         </a>
-         <br/>
-         <a href="https://whale-alert.io/transaction/ethereum/0x7cab848c22173f6a012e9997afabd58c85365f047f0b35d42b1077730e922b3e" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
-          Details
-         </a>
-        </div>
-        <div class="tgme_widget_message_footer compact js-message_footer">
-         <div class="tgme_widget_message_info short js-message_info">
-          <span class="tgme_widget_message_views">
-           26.1K
-          </span>
-          <span class="copyonly">
-           views
-          </span>
-          <span class="tgme_widget_message_meta">
-           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80154">
-            <time class="time" datetime="2024-06-29T14:14:19+00:00">
-             14:14
-            </time>
-           </a>
-          </span>
-         </div>
-        </div>
-       </div>
-      </div>
-     </div>
-     <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80155" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTUsInQiOjE3MTk4MjA0OTUsImgiOiI5ZGI4MTliMzM0NDVhZjk2ZjgifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80155" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTUsInQiOjE3MTk4MjU3ODQsImgiOiI2MTg1NTc2ZjY2YWE0ZDA0YzQifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -603,7 +278,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.4K
+           18.8K
           </span>
           <span class="copyonly">
            views
@@ -621,7 +296,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80156" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTYsInQiOjE3MTk4MjA0OTUsImgiOiI2ODdmY2NlNTQ4NGE3ZWM1ZjYifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80156" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTYsInQiOjE3MTk4MjU3ODQsImgiOiJiNDFjNDE0OTIyYmJhMWU4N2MifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -675,7 +350,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.3K
+           18.7K
           </span>
           <span class="copyonly">
            views
@@ -693,7 +368,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80157" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTcsInQiOjE3MTk4MjA0OTUsImgiOiIyMGFkYjFlMzYwMTk2MjQ1ZWYifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80157" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTcsInQiOjE3MTk4MjU3ODQsImgiOiJjYWM4OWZmOGUxY2Q2YWJiNjQifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -742,7 +417,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.8K
+           19.2K
           </span>
           <span class="copyonly">
            views
@@ -760,7 +435,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80158" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTgsInQiOjE3MTk4MjA0OTUsImgiOiI0NjVlODA2NmNmMjNiODUwMTQifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80158" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTgsInQiOjE3MTk4MjU3ODQsImgiOiJlMWUyNTU3NDNiNjM3ZjQxYTcifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -828,7 +503,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.2K
+           18.6K
           </span>
           <span class="copyonly">
            views
@@ -846,7 +521,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80159" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTksInQiOjE3MTk4MjA0OTUsImgiOiI5M2Y5OTM3YTNjZjUxYWRhNTgifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80159" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNTksInQiOjE3MTk4MjU3ODQsImgiOiJjN2Q4Nzg2NjhjNDdhMzdlNDEifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -913,7 +588,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.4K
+           18.9K
           </span>
           <span class="copyonly">
            views
@@ -931,7 +606,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80160" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjAsInQiOjE3MTk4MjA0OTUsImgiOiJjZjVhZjFkYjI4YzZlYmJjMjEifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80160" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjAsInQiOjE3MTk4MjU3ODQsImgiOiJlYjkyNmMzMzIyYjNjOTg1NTkifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1004,7 +679,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.0K
+           18.5K
           </span>
           <span class="copyonly">
            views
@@ -1022,7 +697,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80161" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjEsInQiOjE3MTk4MjA0OTUsImgiOiI1Y2Q1NTBiYzNlNDNkYTAwZWQifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80161" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjEsInQiOjE3MTk4MjU3ODQsImgiOiIxOGE1N2NlMjAyODgzNTdmMDEifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1079,7 +754,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           18.0K
+           18.6K
           </span>
           <span class="copyonly">
            views
@@ -1097,7 +772,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80162" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjIsInQiOjE3MTk4MjA0OTUsImgiOiJjNGYwYjE3NzUwMjZmZDg4ZTYifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80162" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjIsInQiOjE3MTk4MjU3ODQsImgiOiJiOTc1OGJkMDdhMWI1ZDNiOTEifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1160,7 +835,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           17.5K
+           18.2K
           </span>
           <span class="copyonly">
            views
@@ -1178,7 +853,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80163" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjMsInQiOjE3MTk4MjA0OTUsImgiOiJhZGUyYTRjNjc2YTg0NjczODkifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80163" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjMsInQiOjE3MTk4MjU3ODQsImgiOiIzNmZhNmQyNzk5MjA2MzNkN2IifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1241,7 +916,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           16.1K
+           17.0K
           </span>
           <span class="copyonly">
            views
@@ -1259,7 +934,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80164" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjQsInQiOjE3MTk4MjA0OTUsImgiOiJmOTEwZjE2ODY5YzE4MTdlODcifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80164" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjQsInQiOjE3MTk4MjU3ODQsImgiOiJjMTZhNzY0MjZhNjRmZDMxMTMifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1323,7 +998,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           16.0K
+           16.9K
           </span>
           <span class="copyonly">
            views
@@ -1341,7 +1016,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80165" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjUsInQiOjE3MTk4MjA0OTUsImgiOiJlMTFiOTk5ZjlhYWUzN2RiNzIifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80165" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjUsInQiOjE3MTk4MjU3ODQsImgiOiJhMjg4ZWM0N2E0MGQ4ZjAwNDEifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1393,7 +1068,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           14.4K
+           15.7K
           </span>
           <span class="copyonly">
            views
@@ -1411,7 +1086,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80166" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjYsInQiOjE3MTk4MjA0OTUsImgiOiI1N2JhNWFlYWE4NWJhZmIwMjkifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80166" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjYsInQiOjE3MTk4MjU3ODQsImgiOiI1NjM3Mjc5NTM0YjAwN2RlNDQifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1468,7 +1143,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           12.5K
+           14.1K
           </span>
           <span class="copyonly">
            views
@@ -1486,7 +1161,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80167" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjcsInQiOjE3MTk4MjA0OTUsImgiOiIyZGRjN2NkNjEyZGI5MmM4YWYifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80167" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjcsInQiOjE3MTk4MjU3ODQsImgiOiJlNDVkNzQyMTZkYzk5Y2FlZDUifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1549,7 +1224,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           10.1K
+           12.2K
           </span>
           <span class="copyonly">
            views
@@ -1567,7 +1242,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80168" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjgsInQiOjE3MTk4MjA0OTUsImgiOiI4NGIyYjgxNGQyZmNkM2U5OTEifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80168" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjgsInQiOjE3MTk4MjU3ODQsImgiOiI1N2RmZWNmODMzNzAwOTA2MTUifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1624,7 +1299,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           8.3K
+           11.1K
           </span>
           <span class="copyonly">
            views
@@ -1642,7 +1317,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80169" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjksInQiOjE3MTk4MjA0OTUsImgiOiJhNjA1OGUwNGM4ZGY0NDc5ZTYifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80169" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNjksInQiOjE3MTk4MjU3ODQsImgiOiI3YjFmNTAzMzFmMDIyMTNlM2QifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1701,7 +1376,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           5.8K
+           9.4K
           </span>
           <span class="copyonly">
            views
@@ -1719,7 +1394,7 @@
       </div>
      </div>
      <div class="tgme_widget_message_wrap js-widget_message_wrap">
-      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80170" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNzAsInQiOjE3MTk4MjA0OTUsImgiOiJhMTBiMTZmMDEwMzYzMjUwMDUifQ">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80170" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNzAsInQiOjE3MTk4MjU3ODQsImgiOiJjN2ZiNmZjZDkwYjFkOWM2YTcifQ">
        <div class="tgme_widget_message_user">
         <a href="https://t.me/whale_alert_io">
          <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
@@ -1791,7 +1466,7 @@
         <div class="tgme_widget_message_footer compact js-message_footer">
          <div class="tgme_widget_message_info short js-message_info">
           <span class="tgme_widget_message_views">
-           975
+           6.7K
           </span>
           <span class="copyonly">
            views
@@ -1800,6 +1475,303 @@
            <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80170">
             <time class="time" datetime="2024-07-01T07:50:43+00:00">
              07:50
+            </time>
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="tgme_widget_message_wrap js-widget_message_wrap">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80171" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNzEsInQiOjE3MTk4MjU3ODQsImgiOiJmMDQ3MWU5ZjdhZTA4NTM2OTAifQ">
+       <div class="tgme_widget_message_user">
+        <a href="https://t.me/whale_alert_io">
+         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
+          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
+         </i>
+        </a>
+       </div>
+       <div class="tgme_widget_message_bubble">
+        <i class="tgme_widget_message_bubble_tail">
+         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+          <g fill="none">
+           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+           </path>
+           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+           </path>
+           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+           </path>
+           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+           </path>
+          </g>
+         </svg>
+        </i>
+        <div class="tgme_widget_message_author accent_color">
+         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
+          <span dir="auto">
+           Whale Alert
+          </span>
+         </a>
+        </div>
+        <div class="tgme_widget_message_text js-message_text" dir="auto">
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         5,999
+         <a href="?q=%23ETH">
+          #ETH
+         </a>
+         (20,888,463 USD) transferred from
+         <a href="?q=%23Binance">
+          #Binance
+         </a>
+         to unknown wallet
+         <br/>
+         <a href="https://whale-alert.io/transaction/ethereum/0xcef56bfca22eda3b13d5ac83aca1e7647097941a765eba8dbc9d479af85b2953" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+          Details
+         </a>
+        </div>
+        <div class="tgme_widget_message_footer compact js-message_footer">
+         <div class="tgme_widget_message_info short js-message_info">
+          <span class="tgme_widget_message_views">
+           4.7K
+          </span>
+          <span class="copyonly">
+           views
+          </span>
+          <span class="tgme_widget_message_meta">
+           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80171">
+            <time class="time" datetime="2024-07-01T08:32:28+00:00">
+             08:32
+            </time>
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="tgme_widget_message_wrap js-widget_message_wrap">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80172" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNzIsInQiOjE3MTk4MjU3ODQsImgiOiI4MjIxN2Q4ZjA1NzEyMTRhOTYifQ">
+       <div class="tgme_widget_message_user">
+        <a href="https://t.me/whale_alert_io">
+         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
+          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
+         </i>
+        </a>
+       </div>
+       <div class="tgme_widget_message_bubble">
+        <i class="tgme_widget_message_bubble_tail">
+         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+          <g fill="none">
+           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+           </path>
+           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+           </path>
+           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+           </path>
+           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+           </path>
+          </g>
+         </svg>
+        </i>
+        <div class="tgme_widget_message_author accent_color">
+         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
+          <span dir="auto">
+           Whale Alert
+          </span>
+         </a>
+        </div>
+        <div class="tgme_widget_message_text js-message_text" dir="auto">
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         1,015
+         <a href="?q=%23BTC">
+          #BTC
+         </a>
+         (63,995,196 USD) transferred from
+         <a href="?q=%23Kraken">
+          #Kraken
+         </a>
+         to unknown wallet
+         <br/>
+         <a href="https://whale-alert.io/transaction/bitcoin/2ccc851f931cf9e39de2c2d5c4297cb37b85b790a5675e331a24feec12374b0d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+          Details
+         </a>
+        </div>
+        <div class="tgme_widget_message_footer compact js-message_footer">
+         <div class="tgme_widget_message_info short js-message_info">
+          <span class="tgme_widget_message_views">
+           4.2K
+          </span>
+          <span class="copyonly">
+           views
+          </span>
+          <span class="tgme_widget_message_meta">
+           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80172">
+            <time class="time" datetime="2024-07-01T08:38:42+00:00">
+             08:38
+            </time>
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="tgme_widget_message_wrap js-widget_message_wrap">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80173" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNzMsInQiOjE3MTk4MjU3ODQsImgiOiJlYWViMWQxMjYwNTBiNjkwNTUifQ">
+       <div class="tgme_widget_message_user">
+        <a href="https://t.me/whale_alert_io">
+         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
+          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
+         </i>
+        </a>
+       </div>
+       <div class="tgme_widget_message_bubble">
+        <i class="tgme_widget_message_bubble_tail">
+         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+          <g fill="none">
+           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+           </path>
+           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+           </path>
+           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+           </path>
+           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+           </path>
+          </g>
+         </svg>
+        </i>
+        <div class="tgme_widget_message_author accent_color">
+         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
+          <span dir="auto">
+           Whale Alert
+          </span>
+         </a>
+        </div>
+        <div class="tgme_widget_message_text js-message_text" dir="auto">
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         7,000
+         <a href="?q=%23ETH">
+          #ETH
+         </a>
+         (24,375,586 USD) transferred from unknown wallet to
+         <a href="?q=%23Kraken">
+          #Kraken
+         </a>
+         <br/>
+         <a href="https://whale-alert.io/transaction/ethereum/0x49ebc09a82b9fbb74d45fd2d58367843dc65b8e8443d95721de54030f01e7c0d" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+          Details
+         </a>
+        </div>
+        <div class="tgme_widget_message_footer compact js-message_footer">
+         <div class="tgme_widget_message_info short js-message_info">
+          <span class="tgme_widget_message_views">
+           3.3K
+          </span>
+          <span class="copyonly">
+           views
+          </span>
+          <span class="tgme_widget_message_meta">
+           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80173">
+            <time class="time" datetime="2024-07-01T08:53:48+00:00">
+             08:53
+            </time>
+           </a>
+          </span>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="tgme_widget_message_wrap js-widget_message_wrap">
+      <div class="tgme_widget_message text_not_supported_wrap js-widget_message" data-post="whale_alert_io/80174" data-view="eyJjIjotMTMwOTA0Mzk4OCwicCI6ODAxNzQsInQiOjE3MTk4MjU3ODQsImgiOiIyZjU0ZjY0NzI1ZDFlZWY4YWEifQ">
+       <div class="tgme_widget_message_user">
+        <a href="https://t.me/whale_alert_io">
+         <i class="tgme_widget_message_user_photo bgcolor0" data-content="W">
+          <img src="https://cdn4.cdn-telegram.org/file/T__JQfhO1LTbfaONrzHdurKz5RgOa1GOnarOneoUKye2wMPp-lzhgPCwKBjfQjxPNzEgAwjEyPx4m3ifYhVg0RS239yCzGL5rbb0X33Sc8uWh9TzOD5qn1m7SDA4ZKNPblIIXLiNMIQM6s8IcHb0_dSj6h4r0Z7WUiw-nQlxasc3rcTpXUvr6xhLmOheLWTGzJB9Js-I1sauKxNheBJerXKQZYjO3H6yRFt2ifyNv1LaLdxy2uHgaeBO5PKwaJ9H51BeMCU8HWDvOQJ0pQfF30r7ouBR00bEeG2VfyaK4zDrf3RHV79chxsWl3csOdVE27tQWg8E5qBdZ24hNYiYhw.jpg"/>
+         </i>
+        </a>
+       </div>
+       <div class="tgme_widget_message_bubble">
+        <i class="tgme_widget_message_bubble_tail">
+         <svg class="bubble_icon" height="20px" viewbox="0 0 9 20" width="9px">
+          <g fill="none">
+           <path class="background" d="M8,1 L9,1 L9,20 L8,20 L8,18 C7.807,15.161 7.124,12.233 5.950,9.218 C5.046,6.893 3.504,4.733 1.325,2.738 L1.325,2.738 C0.917,2.365 0.89,1.732 1.263,1.325 C1.452,1.118 1.72,1 2,1 L8,1 Z" fill="#ffffff">
+           </path>
+           <path class="border_1x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0 L9,0 L9,20 L7,20 L7,20 L7.002,18.068 C6.816,15.333 6.156,12.504 5.018,9.58 C4.172,7.406 2.72,5.371 0.649,3.475 C-0.165,2.729 -0.221,1.464 0.525,0.649 C0.904,0.236 1.439,0 2,0 Z" fill="#d7e3ec">
+           </path>
+           <path class="border_2x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.5 L9,0.5 L9,20 L7.5,20 L7.5,20 L7.501,18.034 C7.312,15.247 6.64,12.369 5.484,9.399 C4.609,7.15 3.112,5.052 0.987,3.106 C0.376,2.547 0.334,1.598 0.894,0.987 C1.178,0.677 1.579,0.5 2,0.5 Z">
+           </path>
+           <path class="border_3x" d="M9,1 L2,1 C1.72,1 1.452,1.118 1.263,1.325 C0.89,1.732 0.917,2.365 1.325,2.738 C3.504,4.733 5.046,6.893 5.95,9.218 C7.124,12.233 7.807,15.161 8,18 L8,20 L9,20 L9,1 Z M2,0.667 L9,0.667 L9,20 L7.667,20 L7.667,20 L7.668,18.023 C7.477,15.218 6.802,12.324 5.64,9.338 C4.755,7.064 3.243,4.946 1.1,2.983 C0.557,2.486 0.52,1.643 1.017,1.1 C1.269,0.824 1.626,0.667 2,0.667 Z">
+           </path>
+          </g>
+         </svg>
+        </i>
+        <div class="tgme_widget_message_author accent_color">
+         <a class="tgme_widget_message_owner_name" href="https://t.me/whale_alert_io">
+          <span dir="auto">
+           Whale Alert
+          </span>
+         </a>
+        </div>
+        <div class="tgme_widget_message_text js-message_text" dir="auto">
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         <i class="emoji" style="background-image:url('//telegram.org/img/emoji/40/F09F9AA8.png')">
+          <b>
+           🚨
+          </b>
+         </i>
+         10,000
+         <a href="?q=%23ETH">
+          #ETH
+         </a>
+         (34,812,114 USD) transferred from unknown wallet to
+         <a href="?q=%23Bitfinex">
+          #Bitfinex
+         </a>
+         <br/>
+         <a href="https://whale-alert.io/transaction/ethereum/0x0928bf1b444bad74b2fd1fb0ccf69dcdbe8d7c339976ed897e7ef08f1bbdfa6a" onclick="return confirm('Open this link?\n\n'+this.href);" rel="noopener" target="_blank">
+          Details
+         </a>
+        </div>
+        <div class="tgme_widget_message_footer compact js-message_footer">
+         <div class="tgme_widget_message_info short js-message_info">
+          <span class="tgme_widget_message_views">
+           1.4K
+          </span>
+          <span class="copyonly">
+           views
+          </span>
+          <span class="tgme_widget_message_meta">
+           <a class="tgme_widget_message_date" href="https://t.me/whale_alert_io/80174">
+            <time class="time" datetime="2024-07-01T09:13:38+00:00">
+             09:13
             </time>
            </a>
           </span>
@@ -1828,4 +1800,4 @@
   </script>
  </body>
 </html>
-<!-- page generated in 172.39ms -->
+<!-- page generated in 76.29ms -->

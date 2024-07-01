@@ -1,18 +1,4 @@
 
-Amount received by an exchange: ['175']
-Coin: Ethereum
- 
-Amount received by an exchange: ['699', '729']
-Coin: Ethereum
- 
-Amount received by an exchange: ['740', '762']
-Coin: Ethereum
- 
-Amount received by an exchange: ['544', '000,000']
-Coin: Ethereum
- 
-Coin: Tether
- 
 Amount received by an exchange: ['764']
 Coin: Ethereum
  
@@ -58,6 +44,18 @@ Amount received by an exchange: ['642']
 Coin: Ethereum
  
 Amount sent by an exchange: ['50,000,000']
+Coin: Ethereum
+ 
+Amount received by an exchange: ['280', '000']
+Coin: Ethereum
+ 
+Amount sent by an exchange: ['5,999']
+Coin: Ethereum
+ 
+Amount sent by an exchange: ['83.71', '79.28', '71.23', '42.21', '42.21', '26', '25.40', '25.4', '25.18', '25.02', '25', '24.83', '24.79', '24.48', '24.36', '24.33', '24.3', '24.27', '24.25', '24.24', '24.01', '24', '23.85', '23.77', '23.65', '23.60', '23.58', '23.57', '23.37', '23.29', '23.14', '23.12', '23.08', '23.01', '23', '22.99', '22.97']
+Coin: Bitcoin
+ 
+Amount received by an exchange: ['000']
 Coin: Ethereum
  
 Amount received by an exchange: ['280', '000']
