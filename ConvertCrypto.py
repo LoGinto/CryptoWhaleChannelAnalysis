@@ -1,11 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
 import lxml
+import re
 
 class ConvertCrypto:
 
 
     def GetPrice(self,price):
+        #print(price)
         url = f"https://www.binance.com/en/price/{price.lower()}"
         HTML = requests.get(
             url,
@@ -14,9 +16,9 @@ class ConvertCrypto:
             },
         )
         soup = BeautifulSoup(HTML.text, "lxml")
-        text = soup.find("div", attrs={"class": "css-1bwgsh3"}).text
+        text = soup.find("span", attrs={"class": "t-subtitle2 text-textPrimary md:t-subtitle1 lg:t-headline5"}).text
         clean_text = text.replace('$', '').replace(',', '').replace(' ', '').strip()
-
+        clean_text = re.sub(r'[^\d.]', '', text)
         # Convert to integer
         price_int = round(float(clean_text))
 

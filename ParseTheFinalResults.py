@@ -1,3 +1,4 @@
+import re
 class ParseTheFinalResults:
     def FinalResultsParser(self):
         cryptos = [
@@ -15,10 +16,16 @@ class ParseTheFinalResults:
             for line in lines:
                 for crypto in cryptos:
                     if f"Sent from exchange {crypto}" in line:
-                        amount = float(line.split(":")[1].strip())
-                        results_sent[crypto] = amount
+                        try:
+                            amount = float(re.search(r":\s*(\d+\.?\d*)", line).group(1))
+                            results_sent[crypto] += amount
+                        except AttributeError:
+                            print(f"Failed to parse amount in line: {line}")
                     elif f"Received from exchange {crypto}" in line:
-                        amount = float(line.split(":")[1].strip())
-                        results_received[crypto] = amount
+                        try:
+                            amount = float(re.search(r":\s*(\d+\.?\d*)", line).group(1))
+                            results_received[crypto] += amount
+                        except AttributeError:
+                            print(f"Failed to parse amount in line: {line}")
 
         return results_sent, results_received

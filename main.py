@@ -7,27 +7,46 @@ import ParseTheFinalResults
 def process_results(results_sent, results_received):
     dollar_sent = {}
     dollar_received = {}
+    withdrawal_total = 0  # Track the total withdrawal amount
+    deposit_total = 0  # Track the total deposit amount
+    prevailing_coin_sent = None  # Track the prevailing coin for sent transactions
+    prevailing_coin_received = None  # Track the prevailing coin for received transactions
 
     # Process results_sent
-    for key, value in results_sent.items():
-        if value != 0:
-            dollarAmt = float(value) * ConvertCrypto.ConvertCrypto().GetPrice(key)
-            dollar_sent[key] = dollarAmt
-
-    # Print or use the dollar_sent dictionary as needed
-    print("Dollar Sent:")
-    for key, value in dollar_sent.items():
-        print(f"{key}: ${value:.2f}")
+    print("\nDollars that is sent from exchanges:")
+    for coin, amount in results_sent.items():
+        if amount != 0:  # Skip coins with zero value
+            dollar_amount = float(amount) * ConvertCrypto.ConvertCrypto().GetPrice(coin)
+            dollar_sent[coin] = dollar_amount
+            withdrawal_total += dollar_amount
+            if not prevailing_coin_sent or dollar_sent[coin] > dollar_sent.get(prevailing_coin_sent, 0):
+                prevailing_coin_sent = coin
+            print(f"{coin}: {amount:.2f} coins, ${dollar_amount:.2f}")
 
     # Process results_received
-    for key, value in results_received.items():
-        if value != 0:
-            dollarAmt = float(value) * ConvertCrypto.ConvertCrypto().GetPrice(key)
-            dollar_received[key] = dollarAmt
+    print("\nDollars that exchanges received:")
+    for coin, amount in results_received.items():
+        if amount != 0:  # Skip coins with zero value
+            dollar_amount = float(amount) * ConvertCrypto.ConvertCrypto().GetPrice(coin)
+            dollar_received[coin] = dollar_amount
+            deposit_total += dollar_amount
+            if not prevailing_coin_received or dollar_received[coin] > dollar_received.get(prevailing_coin_received, 0):
+                prevailing_coin_received = coin
+            print(f"{coin}: {amount:.2f} coins, ${dollar_amount:.2f}")
 
-    print("\nDollar Received:")
-    for key, value in dollar_received.items():
-        print(f"{key}: ${value:.2f}")
+    # Include withdrawal total in the output
+    print(f"\nTotal withdrawal amount: ${withdrawal_total:.2f}")
+    print(f"Total deposit amount: ${deposit_total:.2f}")
+
+    # Determine whether withdrawals or deposits are prevailing
+    if deposit_total > withdrawal_total:
+        print("\nExchange received more than withdrawals.")
+        print(f"Difference: ${deposit_total - withdrawal_total:.2f}")
+        print(f"Prevailing coin (received): {prevailing_coin_received}")
+    else:
+        print("\nWithdrawals are prevailing.")
+        print(f"Difference: ${withdrawal_total - deposit_total:.2f}")
+        print(f"Prevailing coin (sent): {prevailing_coin_sent}")
 
 
 if __name__ == "__main__":
